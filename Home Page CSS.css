@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
 * {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -655,7 +655,7 @@ footer {
   .navigation .menu-icon .nav-icon::before,
   .navigation .menu-icon .nav-icon::after {
     background-color: #141414cc;
-    content: "";
+    content: '';
     display: block;
     position: absolute;
     width: 100%;

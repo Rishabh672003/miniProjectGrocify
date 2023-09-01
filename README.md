@@ -1,9 +1,5 @@
 # Grocify
 
-
-
-
-
 ## Grocify
 
 Grocify is a grocery store website based on pure HTML, CSS and JS. It allows users to browse, search and buy various products from different categories such as fruits, vegetables, dairy, bakery, etc. Users can also view the latest offers and discounts on selected items and save money on their purchases.
@@ -23,11 +19,6 @@ Open the project folder in Visual Studio Code -> Install Live Server Extension -
 - Checkout: The checkout page allows users to review their cart items, apply coupons, choose delivery options, and proceed to payment.
 
 Grocify is a simple and user-friendly website that aims to provide a convenient and enjoyable online shopping experience for customers. It is a project developed by a team of web developers who are passionate about creating web applications using pure HTML, CSS and JS.
-
-
-
-
-
 
 ![Screenshot 2022-01-26 185244](./images/readmeScreenshot/Home.jpeg)
 
